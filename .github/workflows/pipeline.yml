@@ -39,4 +39,5 @@ jobs:
       run: |
         mvn -B verify \
           org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
-          -Dsonar.projectKey=cassiogmc
+          -Dsonar.projectKey=11CLDR
+
